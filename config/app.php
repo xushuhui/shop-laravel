@@ -12,9 +12,8 @@ return [
     | any other location as required by the application or its packages.
     |
     */
-
-    'name' => env('APP_NAME', 'Laravel'),
-
+    'name'      => env('APP_NAME', 'Laravel'),
+    'order_ttl' => 30 * 60,
     /*
     |--------------------------------------------------------------------------
     | Application Environment
