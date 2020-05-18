@@ -9,7 +9,7 @@
                     <h4>订单详情</h4>
                 </div>
                 <div class="panel-body">
-                    <table class="table">
+                    <table class="table  table-bordered">
                         <thead>
                         <tr>
                             <th>商品信息</th>
